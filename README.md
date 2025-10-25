@@ -69,7 +69,7 @@ whatsapp-bulk-sender/
 2. Copy and paste the script from below (or download `wpMsg.spec.js` from this repository)
 3. Save the file
 
-**📥 Script:** Copy the content from [`wpMsg.spec.js`](./tests/wpMsg.spec.js) in this repository
+**📥 Script:** Copy the content from [`wpMsg.spec.js`](./wpMsg.spec.js) in this repository
 
 ### Step 4: Create Database Folder
 
@@ -80,7 +80,7 @@ mkdir DB
 ```
 
 Then:
-1. Download the sample Excel file: [`wp-contact.xlsx`](./DB/wp-contact.xlsx)
+1. Download the sample Excel file: [`wp-contact.xlsx`](./wp-contact.xlsx)
 2. Place it inside the `DB/` folder
 
 **OR** create your own Excel file with this format:

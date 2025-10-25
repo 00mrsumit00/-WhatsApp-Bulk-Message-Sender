@@ -2,7 +2,7 @@
 
 An automated tool to send personalized WhatsApp messages in bulk using Playwright. Perfect for businesses, schools, or anyone needing to send mass notifications via WhatsApp Web.
 
-<img width="1916" height="1008" alt="vs code image" src="https://github.com/user-attachments/assets/43eac1f8-430a-4ac3-ba13-2aad5e9466de" />
+<img width="1600" height="856" alt="image" src="https://github.com/user-attachments/assets/58698a0f-89c4-44ea-959d-e81fc7b84327" />
 
 
 
@@ -153,7 +153,7 @@ npx playwright test tests/example.spec.js --headed
 **OR** if you renamed the file:
 
 ```bash
-npx playwright test tests/wpMsg.spec.js --headed
+npx playwright test
 ```
 
 ### Step 9: Login to WhatsApp
@@ -161,7 +161,7 @@ npx playwright test tests/wpMsg.spec.js --headed
 1. Browser will open automatically
 2. Go to WhatsApp Web and scan the QR code
 3. Wait for WhatsApp to fully load
-4. **Press the "Resume" button** in the Playwright debug toolbar
+4. **Press the "Resume" button** in the Playwright debug toolbar OR **Press the "F8" on Keyboard**
 5. Automation will start! ✨
 
 ## 📁 Final Project Structure

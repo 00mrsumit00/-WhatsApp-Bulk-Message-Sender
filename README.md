@@ -311,7 +311,7 @@ npm install -D @playwright/test@latest
 
 ## 🎥 Video Tutorial
 
-> 📹 Coming soon! Check the [Issues](../../issues) page for updates.
+> 📹 Coming soon! Check the [Issues](https://www.youtube.com/watch?v=yOuElUSfAs8&list=PLUDwpEzHYYLsw33jpra65LIvX1nKWpp7-) page for updates.
 
 ## 🤝 Contributing
 
@@ -341,13 +341,13 @@ If this project helped you, please give it a ⭐️!
 
 ## 📞 Need Help?
 
-- 📖 [Check Documentation](../../wiki)
+- 📖 [Check Documentation](https://playwright.dev/docs/intro)
 - 🐛 [Report Issues](../../issues)
 - 💬 [Discussions](../../discussions)
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Sumit**
 
 ### Quick Links
 - [Download Sample Excel](./DB/wp-contact.xlsx)
